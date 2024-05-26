@@ -1,0 +1,8 @@
+.sow-deliverables-table {
+    width: 100%;
+}
+
+.sow-deliverables-table td {
+    padding: 1em;
+    border-top: 2px solid #AAA;
+}
